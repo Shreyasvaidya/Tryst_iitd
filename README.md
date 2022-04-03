@@ -3,6 +3,9 @@ Github repository for Auttobot challenge
 https://github.com/hp2309/autobot-tryst
 
 Team members-
+
+
+
 1.Kushal Agarwal
 2. Ashudeep Dubey
 3. Rishav Aich
@@ -19,3 +22,6 @@ Team members-
 2.Run the code in google colab
 
 3.Done!
+
+
+Link to model-  https://drive.google.com/file/d/14mT4jpXAXu4zZk91bDudWz-ffaDky_S2/view?usp=sharing
