@@ -16,4 +16,6 @@ Team members-
 1.Save the autobot-tryst-dataset (obtainable at https://drive.google.com/drive/folders/1eA2hEBs_Wkc4otwJSIhpcOKYW__KA5S-?usp=sharing) in 'My Drive' in google drive
 
 
-2.You are good to go!
+2.Run the code in google colab
+
+3.Done!
