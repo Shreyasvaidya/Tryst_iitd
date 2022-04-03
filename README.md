@@ -1,5 +1,5 @@
 # Tryst_iitd
-Github repository for Auttobot challenge
+Github repository for Autobot challenge
 https://github.com/hp2309/autobot-tryst
 
 Team members-
